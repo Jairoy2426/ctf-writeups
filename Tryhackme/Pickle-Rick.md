@@ -7,7 +7,9 @@ date: "2020-05-17"
 author: "Jai Roy / Hercules"
 ---
 
-# Writeup Title
+# Pickle-Rick (THM)
+
+Welcome again! This time we are going to go through another relatively simple CTF: Pickle Rick. https://tryhackme.com/room/picklerick
 
 **Introduction :**
 The purpose of this writeup is to document the steps I took to complete Tryhackme.com (THM)'s room Pickle Rick hacking tasks.
