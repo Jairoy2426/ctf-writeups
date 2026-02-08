@@ -16,19 +16,19 @@
     ```
     
 - Attack Modes
-```
-Dictionary: 0
-Combination: 1
-Brute Force: 3
-Hybrid Wordlist: 6
-Hybrid Mask: 7
-```
+    ```
+    Dictionary: 0
+    Combination: 1
+    Brute Force: 3
+    Hybrid Wordlist: 6
+    Hybrid Mask: 7
+    ```
 
 - Character Sets
-```
-?! - a-z
-?u - A-Z
-?d - 0-9
-?s - Punctuation
-?a - lower, upper, digit, punctuation
-```
+    ```
+    ! - a-z
+    ?u - A-Z
+    ?d - 0-9
+    ?s - Punctuation
+    ?a - lower, upper, digit, punctuation
+    ```
