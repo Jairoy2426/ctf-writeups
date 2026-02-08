@@ -54,6 +54,7 @@ First ingredient was found by following these steps:
 ![Directory-Listing](https://h3rcules.space/u/msnn5v.png)
 
 - Saw an interesting file “Sup3rS3cretPickl3Ingred.txt” but could not read contents of the file (using cat) as this functionality was disabled on the server.
+
 ![Try-To-Read-Files](https://h3rcules.space/u/8OImsU.png)
 ![Cat-Disabled](https://h3rcules.space/u/LoIqPz.png)
 
